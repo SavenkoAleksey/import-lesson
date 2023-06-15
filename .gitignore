@@ -1,0 +1,7 @@
+tmp/
+*_old
+*_Store
+
+img/Thumbs.db
+img/*_Store
+img/*_old
